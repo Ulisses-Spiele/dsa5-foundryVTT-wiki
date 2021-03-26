@@ -77,7 +77,7 @@ NOTE: at this point in time TDE/DSA in Foundry does not automatically deduct mon
 
 If you have not purchased the DSA Grundregelwerk or any other module, you will have to create all your assets yourself in the compendium as mentioned in the previous section and then follow the same steps described above.
 
-For a complete experience with maximum comfort functionality and all the content of the base game, the "Core Rules" Module is available from https://www.ulissesf-shop.com/ (English) or https://www.f-shop.de/ (Deutsch)
+For a complete experience with maximum comfort functionality and all the content of the base game, the "Core Rules" Module is available from https://www.ulissesf-shop.com/ (English) or https://www.f-shop.de/detail/index/sArticle/2157 (Deutsch)
 
 ## How can I attach an asset to my character?
 TDE/DSA in foundry allows you to drag and drop any asset (from a purchased module or self-created) from the Compendium packs or Item directory.
