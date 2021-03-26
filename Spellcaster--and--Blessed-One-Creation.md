@@ -17,7 +17,7 @@ To enable the calculation of Arcane Energy or Karma Points you have to make sure
 * To select your Primary Attribute for the tradition on the religion/magic tab
 * And optionally to add an advantage which adds Arcane Energy or Karma Points, like Spellcaster or Blessed
 
-You can take the advantage from the predefined core module compendium or you can create one yourself.
+You can take the advantage of the predefined professions from the core module compendium or you can create one yourself.
 For the latter make sure to enter in the effect field
 * +20 AsP or +20 KaP (german)
 * +20 AE or +20 KP (english)
