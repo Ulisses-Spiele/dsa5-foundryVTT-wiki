@@ -1,9 +1,9 @@
 Currently you can modify advantages, disadvantages, special abilites, meleeweapons, rangeweapons and armor so they alter the attributes of their character.
-This is needed to create abilites that add f.e. Arcane Energy or change Initiative and similar things.
+This is required to create abilites that add e.g. Arcane Energy or change Initiative and do similar things.
 
-To create the effect add f.e. "+1 LeP" to the effect input field on the item. This will add 1 Life point to the character. For equipment the effect will only apply, if the item is actually worn. To add multiple effects, separate them with "," f.e. "+1 LeP, +1 AsP".
+To create the desired effect add for example "+1 LeP" to the effect input field on the item. This will add 1 Life point to the character. For equipment the effect will only apply if the item is actually worn. To add multiple effects, separate them with "," e.g. "+1 LeP, +1 AsP".
 
-You can check the result on the status tab of the character sheet. The effect will appear, if you filled out everything correctly.
+You can check the result on the status tab of the character sheet. The effect will appear if you filled out everything correctly.
 
 Currently possible attribute Modifications include (they differ for each language):
 | Attribute | English | German | 
